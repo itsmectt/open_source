@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/ActionSheetDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/AppCompatPreferenceActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/Configs.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/FileTools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/Main_Location.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/SelectHeadTools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/historyrecord.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ctt/slidemenudemo/sportstrack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_info_black_24dp.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_notifications_black_24dp.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_sync_black_24dp.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/runner.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/view_actionsheet.xml" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

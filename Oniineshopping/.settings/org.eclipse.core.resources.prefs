@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebRoot/Left.jsp=UTF-8
+encoding//WebRoot/ShowCart.jsp=UTF-8
+encoding//src/com/ctt/module/ConnDB.java=UTF-8
+encoding//src/com/ctt/module/GoodsBean.java=UTF-8
+encoding//src/com/ctt/module/GoodsBeanBo.java=UTF-8
+encoding//src/com/ctt/module/MyCartBo.java=UTF-8
+encoding//src/com/ctt/module/UserBeanBo.java=UTF-8
+encoding//src/com/ctt/servlet/LoginCl.java=UTF-8
+encoding//src/com/ctt/servlet/Logintiaozhuan.java=UTF-8
+encoding//src/com/ctt/servlet/ShowCartCl.java=UTF-8
+encoding//src/com/ctt/servlet/ShowGoodsCl.java=UTF-8
